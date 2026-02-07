@@ -25,4 +25,11 @@ AKINOTAN Oluwasegun
 Learning version control with Git and collaboration with GitHub
 
 
+\## Technologies Used 
+- Git for version control 
+- GitHub for remote repository hosting 
+- Python for programming examples 
+- Markdown for documentation
+
+
 
